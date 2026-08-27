@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Domnesti-city.aternos.me",
-    "port": 30884,
+    "ip": "Unstableromania.aternos.me",
+    "port": 47255,
     "version": "1.20.1",
     "try-creative": false
   },
